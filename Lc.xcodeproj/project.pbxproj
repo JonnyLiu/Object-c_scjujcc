@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		BF7F13091FB9C15000A00337 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = BF7F13081FB9C15000A00337 /* main.m */; };
+		BF4C30471FC9C51100727B9C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = BF7F13081FB9C15000A00337 /* main.m */; };
 		BF7F130C1FB9C15000A00337 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = BF7F130B1FB9C15000A00337 /* AppDelegate.m */; };
 		BF7F130F1FB9C15000A00337 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BF7F130E1FB9C15000A00337 /* ViewController.m */; };
 		BF7F13121FB9C15000A00337 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BF7F13101FB9C15000A00337 /* Main.storyboard */; };
@@ -274,8 +274,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				BF7F130F1FB9C15000A00337 /* ViewController.m in Sources */,
+				BF4C30471FC9C51100727B9C /* main.m in Sources */,
 				BF7F130C1FB9C15000A00337 /* AppDelegate.m in Sources */,
-				BF7F13091FB9C15000A00337 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -507,6 +507,7 @@
 				BF7F13331FB9C15000A00337 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		BF7F13341FB9C15000A00337 /* Build configuration list for PBXNativeTarget "LcTests" */ = {
 			isa = XCConfigurationList;
@@ -515,6 +516,7 @@
 				BF7F13361FB9C15000A00337 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		BF7F13371FB9C15000A00337 /* Build configuration list for PBXNativeTarget "LcUITests" */ = {
 			isa = XCConfigurationList;
@@ -523,6 +525,7 @@
 				BF7F13391FB9C15000A00337 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
